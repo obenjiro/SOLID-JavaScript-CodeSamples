@@ -1,0 +1,38 @@
+Dependency Injection
+Dependency Invertion
+Invertion of Control
+Decoupling 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Decoupling (избавление от зависимостей)
+    - Invertion of Control (принцип)
+        -> ( Dependency Injection ) (дизайн паттерн)
+    - Dependency Invertion (принцип)
+        -> ( Interfaces )
